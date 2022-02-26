@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all justices of peace, or other magistrates to whom this may come.</title>
+            <author>Boulbie, Judith.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77125</idno>
+            <idno type="STC">Wing B3828A</idno>
+            <idno type="STC">ESTC R170724</idno>
+            <idno type="EEBO-CITATION">45578168</idno>
+            <idno type="OCLC">ocm 45578168</idno>
+            <idno type="VID">172125</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172125)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2615:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all justices of peace, or other magistrates to whom this may come.</title>
+                  <author>Boulbie, Judith.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Page 6 signed: The 14. day of the 12. month. 1667. Judith Bowlbie.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Justice.</term>
+               <term>Quakers --  England --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172125:1"/>
+            <pb n="1" facs="tcp:172125:1" rendition="simple:additions"/>
+            <head>To all Juſtices of Peace, or other Magiſtrates to whom this may come.</head>
+            <opener>
+               <salute>FReinds,</salute>
+            </opener>
+            <p>The Lord God that made Heaven and Earth, hath given you a day, and hath put Power into your hands for this very end and purpoſe, To try you, and to ſee whether you will exerciſe your Power for or againſt him; Therefore be wiſe, <hi>O ye Rulers,</hi> Come to Gods fear, and that will teach you wiſdom, come to his living witneſs, and that will give you a ſound underſtanding: For he that is placed in authori<g ref="char:EOLhyphen"/>ty for God, <hi>bears not the ſword in vain: For the Law was added becauſe of tranſgreſſion, and it was made for the lawleſs, and for the diſobedient, and was to be a Terror to the evil Doer, but a praiſe to them that doth well:</hi> But, O! my friends, is not Juſtice turned backward, and is not Equity faln in your ſtreets? And is not, (or hath not) your Priſons and Dunge<g ref="char:EOLhyphen"/>ons been filled with the innocent people that fear the Lord God, and tremble at his Word, while the Wicked is at liberty, and the ungodly acting and exerciſing themſelves in all manner of wick<g ref="char:EOLhyphen"/>edneſs,
+<pb n="2" facs="tcp:172125:2"/>(as Stage Playes and other filthy abomina<g ref="char:EOLhyphen"/>tions) whereby the name of the God that made heaven and earth is greatly diſhonoured; and the precious Light of his Son undervalued, and caſt behind their backs: Oh, Will not the Lord vi<g ref="char:EOLhyphen"/>ſit for theſe things, ſurely yea,; and when he hath tryed his people to the full, he will then bring an overflowing ſcourge upon this Nation. O, England, England, a neceſſity is laid upon me to cry in thy ears; And woe be unto me if I keep ſilence. I am like a drunken man, or one whom Wine hath overcome, becauſe of the Lord, and becauſe of the Word of his Holineſs. O Eng<g ref="char:EOLhyphen"/>land, thou that perſecutes Gods Prophets, and impriſoneſt thoſe that in love is ſent to call thee to repentance, Wilt thou yet remain hardned for all that ever the Lord hath done, and is a do<g ref="char:EOLhyphen"/>ing in this the day of his power? Will neither Mercy allure thee, nor Judgement affright thee, nor awaken thee out of thy ſins? Will not the men of <hi>Niniveh</hi> riſe in Judgement againſt thee? They had but one warning, but O England, thou haſt had many. Ah my heart is troubled for thee, and my ſpirit is moved with compaſſion, and I am conſtrained to ſay as a ſervant of the Lord ſaid
+<pb n="3" facs="tcp:172125:2"/>in former dayes, <hi>O that my head were as waters, and my eyes as a fountain of Tears, that I might weep day night for the miſery that is coming upon thee:</hi> What Madneſs and Folly hath poſſeſſed thee? that thou ſhouldſt thus requite the Lord: Could he ever have done more for a people then he hath already done for thee O Nation: Firſt, he ſent his ſervants, then ſaith he, <hi>I will ſend my beloved Son, they will re<g ref="char:EOLhyphen"/>verence him;</hi> and now the Son is come, glory to him for ever: yea the Son of God is come who hath brought life and ſalvation, and we look not for another; and though the heathen rage, and the people imagine vain things, yet in vain do they ſtrive, for the Lamb muſt have the victory: therefore haſt ye, haſt ye out of Babylon, for be<g ref="char:EOLhyphen"/>hold the days come, that Tribulation and Anguiſh ſhall be upon every ſoul that doth evil: ſo that they ſhall cry to the rocks and to the mountain<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fall on us, and hide us from the face of him that fits upon the Throne, for the great day of his wrath is come, and who ſhall be able to ſtand:</p>
+            <closer>
+               <dateline>
+                  <date>the 27. day of the 11. month 1667.</date>
+               </dateline> 
+               <signed>Judith Bowlbie.</signed>
+            </closer>
+         </div>
+         <div type="objections_and_responses">
+            <pb n="4" facs="tcp:172125:3"/>
+            <head>Some <hi>OBJECTIONS</hi> anſwered.</head>
+            <p>
+               <hi>Object. I.</hi> MAY ſome ſay, The Quakers are a refactory people, they are not obedient to the Lawes of the Nation.</p>
+            <p>
+               <hi>Anſwer,</hi> To this I anſwer; The Law of the Spirit of life in Chriſt Jeſus hath made us free from the Law of ſin and death; and as for the outward Law, that would again bring us into bondage, and would have us to deny the Lord that hath done ſo great things for us, which we cannot do, but are reſolved in the ſtrength of the Lord to ſuffer whatſoever the powers of the earth are permitted to inflict upon us.</p>
+            <p>
+               <hi>Object.</hi> II. But may ſome ſay, if the Law be of no force unto you, how do you expect to live in the Nation? Would you be baniſhed from your Countrey and Kindred into a forraign Nation a<g ref="char:EOLhyphen"/>mongſt a people of a ſtrange language?</p>
+            <pb n="5" facs="tcp:172125:3"/>
+            <p> Anſwer. I anſwer, If it were ſo, that they ſhould baniſh us from our neareſt and deareſt re<g ref="char:EOLhyphen"/>lations, yet can they not baniſh us from the pre<g ref="char:EOLhyphen"/>ſence of our God: no verily, his preſence will go with us; and in his preſence there is fulneſs of joy, and at his right hand there is rivers of pleaſure for evermore.</p>
+            <p>Object. III. May ſome ſay, if it be ſo, That neither the Law, nor Baniſhment can prevaile over you, what remains, but even the ſentence of death and condemnation to be paſſed upon you?</p>
+            <p>Anſwer, To this I anſwer, There is no con<g ref="char:EOLhyphen"/>demnation to thoſe that are in Chriſt Jeſus. O death and hell do what ye may: For we do fight the good fight, we have kept the faith, (and through the Lords ſtrength which hath hitherto aſſiſted us) ſhall finiſh our Courſe, henceforth there is laid up for us a Crown of righteouſneſs, and not for us only, but for all thoſe that love the Lord Jeſus, and expect his appearance; and though our bodies be laid in the duſt of the earth, yet this birth ſhall never die, this birth which God hath raiſed up and brought forth in this Nation, it ſhall never go into captivity any more: Therefore ye
+<pb n="6" facs="tcp:172125:4"/>Rulers of the earth, O ceaſe, ceaſe your perſecuti<g ref="char:EOLhyphen"/>on; for ye may as well ſay to the ſea, be thou dryed up, or to the Sun in the firmament, ſtand thou ſtill at noon day, as to think to hinder the Lords work in this the day of his power, yea his ſtrange work: Behold ye diſpiſers, and wonder, for I will work a work in your dayes, that ye ſhall in no wiſe believe, though one declare it unto you, and now the work is a working, and God hath many witneſſes: Glory! Glory! endleſs praiſes, ſaith my ſoul, be unto him and to the Lamb for ever, and for ever more.</p>
+            <closer>
+               <dateline>
+                  <date>the 14. day of the 12. month. 1667.</date>
+               </dateline> 
+               <signed>Judith Bowlbie.</signed>
+            </closer>
+            <pb facs="tcp:172125:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
